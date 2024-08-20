@@ -15,7 +15,7 @@ From the question, Identifying how riders utilizing the program and plans would 
 With the available historic data, I chose last 7 months of data to understand how the customers choice are and bring necessary insights. This data came from a reliable, original, current and cited data satifying the ROCCC rule of data integrity. Download the data of last 7 months and stored them for analysis.
 ##### Process Phase: 
 In this phase, I chose RStudio as a tool for the analysis.
-1. changing the time stamp to refauly yyyy-mm-dd format
+1. changing the time stamp to default yyyy-mm-dd format
 2. Extracting month, day of week from date
 3. Finding the difference of start and end date to determine trip duration
 4. Conerting into proper numeric for analysis and divide by 60 to reduce the value ranges.
